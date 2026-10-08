@@ -1,0 +1,43 @@
+{
+  "name": "dsh-cpa-reasoning-effort",
+  "version": "0.1.1",
+  "description": "为 CPA（EasyCLIProxyAPI）带回的模型补上原厂商思考等级，使对话框里的思考档选择器可用。",
+  "keywords": [
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "plugin",
+    "cpa",
+    "reasoning"
+  ],
+  "type": "module",
+  "main": "index.js",
+  "icon": "./icon.svg",
+  "scripts": {
+    "test": "node --test test/",
+    "build-catalog": "node scripts/build-catalog.mjs"
+  },
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json",
+    "./locale/*.json": "./locale/*.json"
+  },
+  "files": [
+    "index.js",
+    "efforts.js",
+    "vendor-efforts.json",
+    "cordis.patch.yml",
+    "README.md",
+    "icon.svg",
+    "locale/*.json"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "engines": {
+    "node": ">=22.19"
+  },
+  "license": "MIT"
+}

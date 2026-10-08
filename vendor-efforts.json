@@ -1,0 +1,454 @@
+{
+  "grok-4.3": {
+    "off": "none",
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "grok-4.5": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "grok-4.6": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "grok-4.7": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "gemini-3-flash-preview": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gemini-3.1-flash-lite": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gemini-3.1-flash-lite-image": {
+    "minimal": "minimal",
+    "high": "high"
+  },
+  "gemini-3.1-flash-lite-preview": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gemini-3.1-flash-live-preview": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gemini-3.1-pro-preview": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gemini-3.1-pro-preview-customtools": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gemini-3.5-flash": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gemini-3.5-flash-lite": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gemini-3.6-flash": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gemini-3.7-flash": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gemini-3.8-flash": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gemini-flash-latest": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gemini-flash-lite-latest": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gemma-4-26b-a4b-it": {
+    "minimal": "MINIMAL",
+    "high": "HIGH"
+  },
+  "gemma-4-31b-it": {
+    "minimal": "MINIMAL",
+    "high": "HIGH"
+  },
+  "claude-fable-5": {
+    "xhigh": "xhigh",
+    "max": "max"
+  },
+  "claude-fable-5-1": {
+    "xhigh": "xhigh",
+    "max": "max"
+  },
+  "claude-opus-4-6": {
+    "max": "max"
+  },
+  "claude-opus-4-7": {
+    "xhigh": "xhigh",
+    "max": "max"
+  },
+  "claude-opus-4-8": {
+    "xhigh": "xhigh",
+    "max": "max"
+  },
+  "claude-opus-5": {
+    "xhigh": "xhigh",
+    "max": "max"
+  },
+  "claude-opus-5-5": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh",
+    "max": "max"
+  },
+  "claude-sonnet-4-6": {
+    "max": "max"
+  },
+  "claude-sonnet-5": {
+    "xhigh": "xhigh",
+    "max": "max"
+  },
+  "gpt-5": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gpt-5-mini": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gpt-5-nano": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gpt-5-pro": {
+    "high": "high"
+  },
+  "gpt-5.1": {
+    "off": "none",
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "gpt-5.2": {
+    "off": "none",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "gpt-5.2-chat-latest": {
+    "medium": "medium",
+    "xhigh": "xhigh"
+  },
+  "gpt-5.2-pro": {
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "gpt-5.3-chat-latest": {
+    "xhigh": "xhigh"
+  },
+  "gpt-5.3-codex": {
+    "off": "none",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "gpt-5.3-codex-spark": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "gpt-5.4": {
+    "off": "none",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "gpt-5.4-mini": {
+    "off": "none",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "gpt-5.4-nano": {
+    "off": "none",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "gpt-5.4-pro": {
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "gpt-5.5": {
+    "off": "none",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "gpt-5.5-pro": {
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "gpt-5.6-luna": {
+    "off": "none",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh",
+    "max": "max"
+  },
+  "gpt-5.6-sol": {
+    "off": "none",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh",
+    "max": "max"
+  },
+  "gpt-5.6-terra": {
+    "off": "none",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh",
+    "max": "max"
+  },
+  "gpt-6-astra": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh",
+    "max": "max"
+  },
+  "gpt-6-luna": {
+    "off": "none",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh",
+    "max": "max"
+  },
+  "gpt-6-sol": {
+    "off": "none",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh",
+    "max": "max"
+  },
+  "gpt-realtime-2.1": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "o1": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "o1-pro": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "o3": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "o3-mini": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "o3-pro": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "o4-mini": {
+    "low": "low",
+    "medium": "medium",
+    "high": "high"
+  },
+  "deepseek-flash": {
+    "low": "low",
+    "high": "high",
+    "max": "max"
+  },
+  "deepseek-v4-pro": {
+    "high": "high",
+    "max": "max"
+  },
+  "kimi-k3": {
+    "low": "low",
+    "high": "high",
+    "max": "max"
+  },
+  "k3": {
+    "low": "low",
+    "high": "high",
+    "max": "max"
+  },
+  "k3-256k": {
+    "low": "low",
+    "high": "high",
+    "max": "max"
+  },
+  "kimi-for-coding": {
+    "low": "low",
+    "high": "high",
+    "max": "max"
+  },
+  "muse-spark-1.1": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "muse-spark-1.2": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "muse-spark-1.2-contributor": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "muse-spark-1.3": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh",
+    "max": "max"
+  },
+  "muse-spark-1.3-contributor": {
+    "minimal": "minimal",
+    "low": "low",
+    "medium": "medium",
+    "high": "high",
+    "xhigh": "xhigh"
+  },
+  "glm-5.2": {
+    "off": "none",
+    "high": "high",
+    "max": "max"
+  },
+  "glm-5.2-highspeed": {
+    "off": "none",
+    "high": "high",
+    "max": "max"
+  },
+  "glm-5.3": {
+    "low": "low",
+    "high": "high",
+    "max": "max"
+  },
+  "glm-5.3-flash": {
+    "low": "low",
+    "high": "high",
+    "max": "max"
+  },
+  "glm-5.3-highspeed": {
+    "low": "low",
+    "high": "high",
+    "max": "max"
+  },
+  "deepseek-v4-flash": {
+    "high": "high",
+    "max": "max"
+  },
+  "deepseek-v4-flash-0731": {
+    "high": "high",
+    "max": "max"
+  },
+  "deepseek-v4-pro-0813": {
+    "high": "high",
+    "max": "max"
+  },
+  "deepseek-v4.1-flash": {
+    "low": "low",
+    "high": "high",
+    "max": "max"
+  },
+  "glm-5": {
+    "high": "high",
+    "max": "max"
+  },
+  "glm-5.1": {
+    "high": "high",
+    "max": "max"
+  },
+  "qwen3.8-flash": {
+    "low": "low",
+    "medium": "medium",
+    "xhigh": "xhigh"
+  },
+  "qwen3.8-max": {
+    "low": "low",
+    "medium": "medium",
+    "xhigh": "xhigh"
+  }
+}

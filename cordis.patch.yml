@@ -1,0 +1,10 @@
+# Declares original-vendor thinking levels for models on the CPA provider,
+# so the composer effort menu can offer them. The host half writes the
+# missing reasoningEfforts onto llm-pi-ai; it does not replace that entry.
+- insert:
+    - id: cpa-reasoning-effort
+      name: dsh-cpa-reasoning-effort
+      config:
+        enabled: true
+        providers:
+          - easy-cliproxyapi
